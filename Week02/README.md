@@ -4,6 +4,6 @@
 
 <hr>
 
-## 제목: 괄호 회전하기
-### ☑️ 난이도: Lv.2
-### ☑️ 링크: https://school.programmers.co.kr/learn/courses/30/lessons/76502
+## 제목: 완주하지 못한 선수
+### ☑️ 난이도: Lv.1
+### ☑️ 링크: https://school.programmers.co.kr/learn/courses/30/lessons/42576
